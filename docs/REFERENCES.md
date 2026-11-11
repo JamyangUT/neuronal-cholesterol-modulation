@@ -4,7 +4,7 @@
 
 **Cholesterol Depletion in Statin-treated Neuro2a and HN2 Cells.** Submitted by **Jamyang Ugyen Tshomo**, B.Tech in Biotechnology, NIIT University. Supervised by **Prof. Amitabha Chattopadhyay**, CSIR Bhatnagar Fellow, Centre for Cellular & Molecular Biology, Hyderabad. Report dated **July 2025**.
 
-The report acknowledges **Mr. Shishu Pal Singh** for guidance and support, along with the host laboratory and training-program team.
+The report acknowledges **Dr. Shishu Pal Singh** for guidance and support, along with the host laboratory and training-program team.
 
 This repository summarizes the internship project. The original institutional report and raw experimental files are not redistributed here.
 
