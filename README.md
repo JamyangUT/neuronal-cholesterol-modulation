@@ -8,7 +8,7 @@
 
 This summer research project at **CSIR-CCMB, Hyderabad (2025)** investigated how lovastatin exposure affected cholesterol content in two neuronal cell models: **Neuro2a (N2a)** and **HN2**.
 
-**Researcher:** [Jamyang Ugyen Tshomo](https://github.com/JamyangUT). I carried out the project during my summer internship under the supervision of **Prof. Amitabha Chattopadhyay**, with guidance from **Mr. Shishu Pal Singh**.
+**Researcher:** [Jamyang Ugyen Tshomo](https://github.com/JamyangUT). I carried out the project during my summer internship under the supervision of **Prof. Amitabha Chattopadhyay**, with guidance from **Dr. Shishu Pal Singh**.
 
 ## Research question
 
